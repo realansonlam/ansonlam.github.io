@@ -5,3 +5,5 @@ description: 香港執業事務律師，業務範圍包括訴訟（民事及刑�
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+github:
+  is_project_page: false
