@@ -2,7 +2,7 @@ title: 林安生律師
 logo:
 description: 香港執業事務律師，業務範圍包括訴訟（民事及刑事）、建築爭議、業主立案法團事務、一般合規法律意見及中、小學法務問題。
 £show_downloads: true
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
